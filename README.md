@@ -9,11 +9,11 @@
 </p>
 
 <p align="center">
-  🇲🇦 Morocco &nbsp;·&nbsp; Open to Freelance & Remote Collaboration
+  <a href="mailto:tarik.kabaki2000@gmail.com">📧 Email</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/tarik-kabaki-90a595233/">💼 LinkedIn</a>
 </p>
-
 ---
-
 ## 👨‍💻 About Me
 
 Software Engineer focused on building high-performance web applications,
