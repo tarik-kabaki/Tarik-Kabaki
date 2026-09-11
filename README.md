@@ -80,20 +80,3 @@ Available for freelance collaborations and interesting engineering challenges.
 <p align="center">
   <i>Build systems. Solve problems. Ship.</i>
 </p>
-
-[ Next.js ] [ React ] [ TypeScript ] [ Tailwind ]
-
-[ NestJS ] [ Node.js ] [ Express ]
-
-[ PostgreSQL ] [ Redis ] [ Prisma ] [ TypeORM ]
-
-[ Docker ] [ Git ] [ Stripe ] [ Keycloak ]
-
-[ OpenAI ] [ Claude ] [ RAG ] [ MCP ]
-
-╭─────────────────────────────────────────────╮
-│                                             │
-│     Contributions       Streak      Commits │
-│          3,xxx             xx          xxx  │
-│                                             │
-╰─────────────────────────────────────────────╯
