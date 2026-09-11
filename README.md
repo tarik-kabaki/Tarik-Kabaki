@@ -55,16 +55,3 @@ AI integrations, automation and production-ready SaaS applications.
 ## 🧠 Currently Exploring
 
 `Agentic AI` · `Advanced RAG` · `MCP` · `Distributed Systems` · `AI Automation`
-
----
-
-
-## 🤝 Let's Connect
-
-Available for freelance collaborations and interesting engineering challenges.
-
----
-
-<p align="center">
-  <i>Build systems. Solve problems. Ship.</i>
-</p>
